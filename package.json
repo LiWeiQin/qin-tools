@@ -1,5 +1,5 @@
 {
-  "name": "qin-tools",
+  "name": "qin-tools-v1",
   "version": "1.0.1",
   "description": "Collection of commonly used tools",
   "main": "index.js",
